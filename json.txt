@@ -1,0 +1,24 @@
+{"user":{"url":"http://www.ravelry.com/people/pdis","name":"pdis"},"projects":[
+{"notes":null,
+"started":null,
+"permalink":"baby-hat",
+"status":"in-progress"
+,"progress":0,
+"happiness":null,
+"favorited":0,
+"pattern":null
+,"completed":null,
+"needles":[],
+"comments":0,
+"size":"Small",
+"blogPosts":[],
+"yarns":[],
+"name":"Baby Hat",
+"url":"http://www.ravelry.com/projects/pdis/baby-hat",
+"madeFor":"Babies",
+"thumbnail":null},
+
+{"notes":null,"started":null,"permalink":"shaw-hill","status":"in-progress","progress":0,"happiness":null,"favorited":0,"pattern":{"designer":{"url":"http://www.ravelry.com/designers/alicia-plummer","name":"Alicia Plummer"},"url":"http://www.ravelry.com/patterns/library/shaw-hill","name":"Shaw Hill"},"completed":null,"needles":[],"comments":0,"size":null,"blogPosts":[],"yarns":[],"name":"Nice Shaw","url":"http://www.ravelry.com/projects/pdis/shaw-hill","madeFor":null,"thumbnail":null},{"notes":null,"started":null,"permalink":"super-hat","status":"in-progress","progress":0,"happiness":null,"favorited":0,"pattern":null,"completed":null,"needles":[],"comments":0,"size":"xl","blogPosts":[],"yarns":[],"name":"Super Hat","url":"http://www.ravelry.com/projects/pdis/super-hat","madeFor":"Men","thumbnail":null}]}
+
+
+getProjects

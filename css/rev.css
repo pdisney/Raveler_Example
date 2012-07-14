@@ -1,0 +1,51 @@
+.rav_project {
+    margin-bottom: 5px;
+  }
+  
+  .rav_project a.rav_title {
+    font-size: .9em;
+  }
+  
+  .rav_project .rav_progress_text {
+    position: relative;
+    text-align: center;
+  }
+
+  .rav_project .rav_progress_bar_wrapper {
+    border: 1px solid #eee;
+    margin-top: 2px;
+  } 
+
+  .rav_project .rav_progress_bar { 
+    position: relative;
+    padding: 1px;
+    border-left: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    background-color: #eee;
+  }
+
+  .rav_project .rav_progress_bar .rav_progress_filled { 
+    position: absolute;
+  }
+  
+  .rav_project .rav_photo_link {
+    margin-bottom: 5px;
+    display: block;
+    width: 77px;
+    height: 77px;
+    margin-left: 1px;
+    margin-top: 5px;
+    border: 1px solid #cccccc;
+  }
+  
+  .rav_project .rav_photo_link img {
+    width: 75px;
+    height: 75px;
+    border: 1px solid #ffffff;
+  }
+  
+  .rav_project_with_photos {
+    margin-bottom: 20px;
+  }
